@@ -19,3 +19,8 @@ public static void main(String[] args){
     dfjksjdfklsjfs;
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the worldd
+- [ ] ffffffffffffffff
